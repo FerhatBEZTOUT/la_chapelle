@@ -1,0 +1,44 @@
+body {
+    display:flex;
+    min-height:100vh;
+    flex-direction: column;
+}
+
+
+#o-de-opera {
+    color: rgb(70, 137, 223);
+    font-size: x-large;
+}
+
+#map { height: 300px; }
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.title {
+    color: rgb(70, 137, 223);
+}
+
+
+footer {
+    background-color: rgb(58, 151, 238);
+    color : white;
+}
+
+.footer-a {
+    color : white;
+    text-decoration: none;
+}
+
+
+.modal-a {
+   
+    text-decoration: none;
+}
